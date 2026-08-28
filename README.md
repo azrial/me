@@ -1,7 +1,7 @@
-# about-me
+# me
 
 Personal site for Muhammad Azrial.
 
-Live at https://azrial.github.io/about-me/
+Live at https://azrial.github.io/me/
 
-Served directly from the `main` branch. Push to `main`, the site updates.
+Deployed with a GitHub Actions workflow. Push to `main`, the site updates.
